@@ -4,10 +4,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.gebruiker.restaurant.CategoriesActivity">
+    tools:context="com.example.gebruiker.restaurant.MenuActivity">
 
     <ListView
-        android:id="@+id/category_listID"
+        android:id="@+id/menu_listID"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
